@@ -1,0 +1,62 @@
+*{
+    display: block;
+}
+#container{
+    background-image:url(https://ak1.picdn.net/shutterstock/videos/12584741/thumb/3.jpg);
+    background-attachment:scroll;
+	  background-repeat:no-repeat;
+      background-size: 100%;
+      color: #868686;
+}
+.header-flex{
+    display: inline-flex;
+    gap: 30px;
+     
+}
+.facebook{
+ margin-left: 50px; 
+}
+.header-flex p{
+    margin-left: 50px; 
+}
+.section-1-paragraph{
+    margin-left: 50px; 
+font-size: 20px;
+}
+.message{
+    display: flex;
+    margin-left: 500px; 
+    margin-right: 50px; 
+}
+.message-text{
+    display: flex;
+    margin-left: 20px; 
+  
+}
+.phone{
+    display: flex;
+    margin-left:30px; 
+    
+}
+.phone-no{
+    display: flex;
+    margin-left: 20px; 
+  
+}
+#header-img-heading{display:flex;
+margin-right: 20px;
+margin-left: 50px;}
+
+.header-prakaram-links  {display:inline-flex;
+font-size: 20px;
+font-family: 'poppins',sans-serif;
+  gap: 30px;
+
+}
+.header-prakaram-links a{
+    color: #868686;
+     text-decoration: none;
+}
+.dropdown ul li{
+    color: #868686;
+}

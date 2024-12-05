@@ -1,0 +1,538 @@
+
+    
+#header{background-image: url(https://boxsiteantigua.com/wp-content/themes/boxsite/assets/images/curve/header-top-right.svg);
+    background-repeat: no-repeat;
+    background-position: top right;
+    height:200px;
+    }
+    
+    .header-img img{width:250px;
+    height:100px;}
+    
+    .img-text{width: 250px;}
+    .img-text-a{display: flex;
+    color: black; }
+    
+    .header-nav {display: inline;
+    margin-left: 200px;
+    margin-top: 70px;
+    font-size: 20px;
+    
+    }
+    
+    .header-nav a{padding-left: 30px;text-decoration: none;}
+    
+    .details-categories details{margin-left: 340px;
+        text-decoration: none;
+    margin-top: -29px;
+    }
+    
+    .header-btn{margin-left: 500px;
+    margin-top:-25px;
+    box-shadow: 0 0 8px 1px rgba(0, 0, 0, .2);
+            font-size: 12px;
+            padding-right: 20px;
+            
+            color: #fff;
+            background: linear-gradient(180deg, rgba(103, 101, 237, 1) 0%, rgba(145, 123, 232, 1) 100%);
+            font-size: 15px;
+            border-radius: 10px;
+            text-align: center;
+            width:150px;
+            height: 30px;
+    }
+    
+    .login-section{margin-left: 680px;
+        margin-top:-25px;
+        border:none;
+        outline: 0;
+    }
+    .img-text-a a{color: black;}
+    .img-text-a a:hover{color:blueviolet;}
+
+
+                        /*section 1&2*/
+    
+    #s1{background-image:url('https://www.boxsiteantigua.com/wp-content/uploads/2019/10/banner-1.jpg');object-fit: cover;background-size: 120% 120%;}
+        
+    #s1 .section-img2{padding-top:600px;
+    }
+    
+    #s2 .section-2{width:100%;
+    height:900px;
+    
+    background: -moz-linear-gradient(359deg, rgba(103, 101, 237, 1) 0%, rgba(145, 123, 232, 1) 100%);
+        background: -webkit-gradient(linear, left top, right top, color-stop(0%, rgba(103, 101, 237, 1)), color-stop(100%, rgba(145, 123, 232, 1)));
+        background: -webkit-linear-gradient(359deg, rgba(103, 101, 237, 1) 0%, rgba(145, 123, 232, 1) 100%);
+        background: -o-linear-gradient(359deg, rgba(103, 101, 237, 1) 0%, rgba(145, 123, 232, 1) 100%);
+        background: -ms-linear-gradient(359deg, rgba(103, 101, 237, 1) 0%, rgba(145, 123, 232, 1) 100%);
+        background: linear-gradient(91deg, rgba(103, 101, 237, 1) 0%, rgba(145, 123, 232, 1) 100%);
+        
+        position: relative;
+       
+        padding-bottom: 60px;}
+         
+     .h1-sec2{
+         padding-top:100px;;
+      width:350px; 
+    margin-left:40px;  position: relative;  text-transform: uppercase;
+      
+    }
+    .h1-sec2 h1 span{font-weight: 700;
+         word-spacing: 4px; font-size:45px;}
+     
+      
+    .icon1-text1{display:flex; 
+    width:700px;
+    border:solid 1px #e1e1e1;
+    margin-left: 400px ;
+    gap:50px;margin-bottom:40px;
+    padding: 20px; 
+    justify-content: flex-start; 
+    }
+    
+    
+    .icon2-text2{
+    display:flex; 
+    border:solid 1px #e1e1e1;
+     gap:50px; margin-left: 400px;
+     width:700px;
+     padding: 20px;
+     justify-content: flex-start; 
+     margin-bottom:100px;}
+    
+    
+     #s2 .text-box p{ margin: 0;
+        line-height: 21px;
+        font-size: 15px;
+        word-spacing: 3px;
+        color: #767676;}
+        
+    .section2-container{
+        padding-top:80px;
+        margin-left:70px;
+        margin-right:100px;	
+    position: relative;
+    margin: 0 auto;
+    height:650px;
+    background: #fff;
+    position: relative;
+    width:1200px;
+    padding: 0 30px;
+    overflow: hidden; }
+    
+     #s2 .s2-content-bottom-h1{
+    margin-top: 30px;
+      font-size:45px;
+      font-weight:800;
+      font-family: sans-serif;
+      padding-top:50px;
+      text-align: center;
+      color: white;
+      font-style: italic;
+    }
+    #s2    p{
+      text-align: center;
+      font-size: 20px;
+      font-family:sans-serif;
+      font-style: italic;
+      color: #e1e1e1;
+    }
+
+
+                        /*section 3*/
+
+.steps-image1{
+    display: flex;
+    width:90%;
+    gap:200px;
+    margin-top:50px;
+}
+
+.stepscontent1
+{width: 90%;
+font-size:25px;
+margin-top:50px;
+color:gray;}
+
+
+
+.stepsimage2{display: flex;
+    width:90%;
+    gap:200px;margin-top:50px;}
+
+.stepscontent2
+{width: 90%;
+font-size:25px;
+margin-top:50px;
+color:grey;}
+
+
+.stepsimage3{display: flex; 
+    width:90%;
+    gap:200px;margin-top:50px;}
+
+    .stepscontent3
+{width: 90%;
+font-size:25px;margin-top:50px;
+color:grey;}
+
+ #s3  h3{
+    
+    font-size: 50px;
+    font-weight: 700;
+    color: #30347b;
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.stepNumber1{
+    position: absolute;
+    font-size: 130px;
+    font-weight: 700;
+    top: 1880px;
+    line-height: normal;
+    color: #e7e9f7;
+    right:180px;
+}
+
+
+.stepNumber2{
+    position: absolute;
+    font-size: 130px;
+    font-weight: 700;
+    top:  2300px;
+    line-height: normal;
+    color: #e7e9f7;
+    right:1000px;
+}
+
+
+.stepNumber3{
+    position: absolute;
+    font-size: 130px;
+    font-weight: 700;
+    top:2850px;
+    line-height: normal;
+    color: #e7e9f7;
+    right:180px;
+} 
+
+                       /*section 4*/
+
+
+  .section-s4-image{
+    position: relative;
+   
+ }               
+  .h3-section4 {background: -moz-linear-gradient(359deg, rgba(103, 101, 237, 1) 0%, rgba(145, 123, 232, 1) 100%);
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, rgba(103, 101, 237, 1)), color-stop(100%, rgba(145, 123, 232, 1)));
+  background: -webkit-linear-gradient(359deg, rgba(103, 101, 237, 1) 0%, rgba(145, 123, 232, 1) 100%);
+  background: -o-linear-gradient(359deg, rgba(103, 101, 237, 1) 0%, rgba(145, 123, 232, 1) 100%);
+  background: -ms-linear-gradient(359deg, rgba(103, 101, 237, 1) 0%, rgba(145, 123, 232, 1) 100%);
+  background: linear-gradient(91deg, rgba(103, 101, 237, 1) 0%, rgba(145, 123, 232, 1) 100%);
+  position: relative; 
+  max-width: 100%;
+  height: 730px;
+  
+}
+ .h3-section4 h3{text-align: center;
+color: white;
+font-weight: 800;
+font-size: 40px;
+font-family: sans-serif;
+left: 3px;
+position: relative;
+padding: 0 150px;
+margin-bottom: 35px; padding-top: 60px;}
+
+.h3-section4 p{
+    text-align: center;
+color: white;
+font-size: 25px;
+
+
+}
+.card{
+    width:380px;
+    height: 350px;
+    margin-top: 80px;
+    margin-left:60px;
+    position: relative;
+    display: none;
+    border: 0;
+    border-radius: 5px;
+   outline:0;
+    box-shadow: 0 50px 130px rgba(0, 0, 0, 0.4);
+    border-top: 4px solid #716aec;
+    display: block;
+}
+.card-body h3{
+    text-align: center;
+    width:50px;
+    color: #30347b;
+    font-size: 25px;
+     display:inline;
+     padding-left: 90px;
+     padding-top: 30px;
+     padding-right: 50px;
+}
+.plan-price p {color: #726aeb;
+margin-top: 25px;
+font-size:40px;padding-left:50px;}
+
+.plan-price span{display:inline;
+color:#636367;
+font-size:20px;}
+
+
+.view-box-details{display: block; padding-left:110px;
+color:#636367;
+ font-size:20px;
+text-decoration: none;}
+
+.card-btn {
+    width:110px;
+    height: 50px;
+    margin-top:30px;
+    border: none;
+    outline: 0;
+    margin-left:110px ;
+    padding: 10px 25px;
+
+    border-radius: 5px;
+    font-size: 20px;
+    text-decoration: none;
+    background: linear-gradient(91deg, rgba(103, 101, 237, 1) 0%, rgba(145, 123, 232, 1) 100%);
+}
+.card-btn a{text-decoration: none;    color: #fff;}
+
+.card-p p{ font-size: 18px;
+     padding-top:20px;
+     color: #767676;
+    text-align: center;
+    line-height: 20px;
+}
+
+.section5-img{
+    margin-left: 600px;
+    margin-top: 60px;
+    display: block;
+}
+
+                        /*slider*/
+
+.swiper {
+    width: 690px;
+    height: 100%;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+  }
+
+  .swiper-slide  {
+    display: block;
+    width: 70px;
+    height: 180px;
+   font-size: 20px;
+   margin-top:50px;
+  
+  }
+  .authorName{margin-top: 30px;
+  font-size: 20px;
+font-family:  'Arial Narrow Bold', sans-serif;
+font-weight: 600;
+color: black;}
+
+.swiper-slide{color: gray;
+  }
+                                /*section 6 subscribe-section*/
+
+#s6-Subscribe-section{width:100%;
+height:1000px;
+background-image:url(https://boxsiteantigua.com/wp-content/themes/boxsite/assets/images/subscription_img.png);
+background-repeat: no-repeat;
+background-position: center right;
+background-color: #6765ea;
+    position: relative;
+    background-attachment: fixed;
+    margin-top:-300px;
+    display: block;
+}                 
+
+.row-flex{display: flex;
+flex-direction: column; margin-top: 50px;
+}
+
+.section6-mainheading h4{font-size:45px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
+    margin-left: 50px;
+}
+.section6-mainheading h2{
+    color: white;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 30px;
+    width: 500px;
+    letter-spacing: 2px;
+    margin-left: 50px;
+}
+.Subscribe-box p{color: white;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+width: 600px;
+padding-top: 40px;
+letter-spacing: 1px;
+margin-left: 50px;}
+
+#frm input{margin-top: 30px;width: 600px;
+height: 25px;
+margin-left: 50px;
+border-radius: 6px;
+border: none;
+outline: 0;
+padding:30px;
+font-family: Arial, Helvetica, sans-serif;}
+
+ .Subscribe-btn button  {
+    margin-top: 20px;
+    border-radius: 5px;
+    height: 45px;
+    width: 150px;
+    margin-left: 50px;
+    background: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 20px;
+}
+                                       /*section 7*/
+  #s7{width: 100%;
+height: 500px;margin-left: 40px;
+
+}   
+
+.contact-section{
+margin-top: 60px;
+
+
+}
+.contact-section h4{color: #444b51; font-size: 30px;    text-transform: uppercase;
+}
+.contact-section h2{padding-top: 30px;}
+
+.contact-info li {margin-top:20px;
+font-size: 20px;
+outline: 0;
+text-decoration: none;}
+
+.contact-info li  a{text-decoration: none;  color:#444b51;}
+
+
+.contact-info li  a:hover{color: #6f42c1;}
+
+.contact-frm {width: 100%;
+height: 200px;
+margin-left: 700px;
+margin-top: -230px;
+
+border-color: #eeeeee;
+padding: 15px 25px;
+font-size: 25px;
+}
+.contact-frm input {background-color:#f7f7f7;;
+height: 60px;
+width: 520px;
+padding: 29px;
+font-size: 19px;
+font-family: Arial, sans-serif;
+}
+.contact-frm input:hover{border: 1px solid #6f42c1;
+border-radius: 5px;}
+
+.contact-frm textarea{width:520px; background-color:#f7f7f7;}
+.submit-btn{ margin-top: 50px;
+font-size: 20px;
+font-family: Arial, sans-serif;
+}
+.submit-btn button{width: 200px;
+height:50px;
+border: none;
+outline: 0;
+font-family: Arial, sans-serif;
+
+display: inline-block;
+padding: 13px 35px;
+color: #fff;
+border-radius: 5px;
+    font-size: 15px;
+    background: -moz-linear-gradient(359deg, rgba(103, 101, 237, 1) 0%, rgba(145, 123, 232, 1) 100%);
+ 
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%, rgba(103, 101, 237, 1)), color-stop(100%, rgba(145, 123, 232, 1)));
+
+    background: -webkit-linear-gradient(359deg, rgba(103, 101, 237, 1) 0%, rgba(145, 123, 232, 1) 100%);
+   
+    background: -o-linear-gradient(359deg, rgba(103, 101, 237, 1) 0%, rgba(145, 123, 232, 1) 100%);
+    
+    background: -ms-linear-gradient(359deg, rgba(103, 101, 237, 1) 0%, rgba(145, 123, 232, 1) 100%);
+    
+    background: linear-gradient(91deg, rgba(103, 101, 237, 1) 0%, rgba(145, 123, 232, 1) 100%);
+}
+
+                            /*footer*/
+#footer-top{width: 100%;
+height: 500px;
+background: #303380;} 
+
+.footer-img-text{padding-top: 50px;}
+
+.footer-text{color: #e1e1e1;
+width: 400px;
+padding-top: 20px;
+font-size: 15px;}
+
+.links{color:#e7e9f7;
+margin-left: 450px;
+margin-top: -300px;
+}
+
+.achor-links a{ text-decoration: none;
+font-size: 17px;
+font-family: Arial, sans-serif;
+color:#e7e9f7;
+}
+.Subscrib-to-newsletter{margin-left: 900px;
+margin-top: -200px;color: white;}
+.Subscrib-to-newsletter input{width: 370px;
+height: 50px;
+margin-top: 30px;
+padding:20px;
+border-radius: 5px;
+border: none;
+outline: 0;}
+
+.Subscrib-to-newsletter button{
+    margin-top: 20px;
+    border-radius: 5px;
+    height: 45px;
+    width: 150px;
+    margin-left: 50px;
+    background: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.anchor-last {margin-top: 40px;
+padding-left: 50px;
+margin-top: 30px;}
+
+    

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+  <style>
+  .swiper {
+      width: 590px;
+      height: 100%;
+    }
+
+    .swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+   
+    }
+
+    .swiper-slide  {
+      display: block;
+      width: 70px;
+      height: 140px;
+     font-size: 20px;
+    
+    }
+    .authorName{margin-top: 30px;
+    font-size: 20px;
+font-family:  'Arial Narrow Bold', sans-serif;
+font-weight: 600;
+color: black;}
+
+.swiper-slide{color: gray;
+    }
+
+
+  </style>
+</head>
+
+<body>
+  <!-- Swiper -->
+  <div class="swiper mySwiper">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        "This is a dream come true for me. 
+        I am excited to get started and explore my possibilities."
+        <div class="authorName">
+            Lisa Joseph </div>
+    </div>
+      <div class="swiper-slide">
+        "I am a life long skeptic by nature, but I can't help to think&nbsp; that 
+        I may regret not&nbsp; trying this site out. Time will tell, lol."
+        <div class="authorName">
+            Patricia Rogers    </div>
+    </div>
+      <div class="swiper-slide">
+        "Guaranteed Hands!? Sign me up! I have always wanted to throw a box,
+         but wasn't sure whom I could trust. 2020 is already looking up!    <div class="authorName">
+            Edward Browne    </div>                   </div>
+    </div>
+    <div class="swiper-pagination"></div>
+  </div>
+
+  <!-- Swiper JS -->
+  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+  <!-- Initialize Swiper -->
+  <script>
+    var swiper = new Swiper(".mySwiper", {
+      spaceBetween: 30,
+      autoplay:{delay:2000,},
+      pagination: {
+        el: ".swiper-pagination",
+        clickable: true,
+      },
+    });
+  </script>
+
+
+
+
+
+    
+</body>
+</html>

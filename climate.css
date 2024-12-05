@@ -1,0 +1,637 @@
+ 
+                  /*head section*/
+ 
+ body{
+	background-image:url(https://climate-wise.com/wp-content/uploads/2023/10/homebaner.jpg);
+	  background-attachment:scroll;
+	  background-repeat:no-repeat;
+	 background-size: 100%; 
+}
+ 
+ nav{
+	display:inline;
+	text-decoration:none;
+	text-align:justify;}
+	
+nav a{
+	text-decoration:none;
+	margin-left:60px;
+	font-size:18px;
+	color:white;}
+
+nav a:hover{
+	color:#ff9f00;}
+
+#head{
+	padding:20px;
+	word-spacing:5px;
+	position:absolute;
+	width:100%;
+	background:#25254B; 
+	border-radius:10px;
+	
+	}	
+
+
+	
+	#s1{
+		padding-top:250px;
+		color:white;
+		padding-left:100px;
+	}	
+#s1 ,.p1{
+font-size:20px;}
+
+ section button{background:#ffae42;
+margin-left:150px;
+margin-top:30px;
+width:170px;
+height:40px;
+border:none;
+outline:0px;
+border-radius:20px;
+transition: color 1s, background 1s;}
+section #offset-btn:hover{
+	background:#002e63;
+color:white;	
+}
+
+ #s1 h1,.p1,#offset-btn{
+    animation-name:move;
+    animation-duration:3s;
+    position:relative;
+	animation-direction:normal ;
+	padding-left:5px;
+	  animation-duration: 4s;
+ }
+
+               /*head section end*/
+			   
+               /*Business Solutions*/
+
+
+#s2 img{
+		width:80px;
+		height:80px;
+		transition:1s;
+		margin:50px; 	
+		}
+
+	
+#s2 img:hover{
+	transform:rotateZ(360deg);
+	 }
+	 
+#s2 p{
+		margin-left:150px;
+		font-size:15px;
+		padding-top:1px;
+			cursor:pointer;
+	}
+#s2 h6{
+		cursor:pointer;
+		color:#ed9121;
+font-size:20px;	
+
+}
+#s2 h2{
+	text-align:center;
+padding:30px;
+}
+
+
+#s2{
+  background-image: url(https://climate-wise.com/wp-content/themes/climate-wise/assets-wise/images/rounded.png) ;
+   background-repeat:no-repeat;
+  
+}
+       /*Business Solutions end*/
+           
+              /*Solutions For Individuals*/
+#s3{margin-top:70px; width:100%;
+height:800px;}
+
+ #s3 .s3h2{text-align:center;}
+ 
+ .s3-image1{     
+	 padding-top:60px;
+	 padding-left:250px;
+ }
+  .s3-flex-img{display:flex;
+ gap:129px;
+ padding-left:210px;
+ padding-top:}
+ 
+ .background-image1{ margin-left:100px;
+background-repeat:no-repeat;
+width:300px;
+margin-top:-5px;
+	
+}
+  .background-image1:hover{filter: drop-shadow(0px 10px 30px rgba(211, 167, 43, 0.30));}
+
+ 
+ .s3-flex-img1{ padding-left:100px;
+ padding-bottom:80px;
+ }
+ 
+
+ .background-image2{background-repeat:no-repeat;
+ margin-left:135px;
+ width:290px; 
+ margin-top:-5px;
+ height:300px;
+margin-bottom:500px;
+
+   }
+ .background-image2:hover{filter: drop-shadow(0px 10px 30px rgba(211, 167, 43, 0.30));} 
+   
+   .s3-flex-img2{ padding-left:110px;
+  }
+	  
+ .background-image3{background-repeat:no-repeat;
+		height:230px;
+		margin-left:150px;
+		width:300px;
+		margin-top:-5px;
+		}
+ .background-image3:hover{filter: drop-shadow(0px 10px 30px rgba(211, 167, 43, 0.30));}
+		
+.s3-flex-img3{margin-left:100px;
+}
+.background-container{
+			display:flex;
+			gap:5px;
+			margin:auto;
+			
+}
+ 			
+		
+ #s3 .background-container h4{padding-top:20px;
+}
+#s3	.background-container a{
+	color:black;
+}
+#s3	.background-container a:hover{
+	color:#D3A72B;
+	text-decoration:none;
+	
+}
+
+			   /*Sign Up To Our Newsletter*/
+
+
+ #s4{
+	background:#002e63;
+height:130px;	
+color:white;
+display:flex;
+}	
+	
+
+ #s4 input{width:300px;
+height:40px;
+border-radius:40px;
+padding-left:20px;
+margin-left:600px;
+border:none; display:inline;
+margin-top:20px;
+
+}
+#s4 h2{padding-top:10px;
+font-size:30px;
+padding-left:150px;
+padding-top:20px;
+}
+.sign-btn{margin-left:10px;
+margin-top:20px;
+ width:95px;}
+ 
+         /*Sign Up To Our Newsletter end*/
+	   
+	   /*Projects We Support*/
+ 
+ #s5{text-align:center;
+ height:800px;
+   background-image: url(https://climate-wise.com/wp-content/themes/climate-wise/assets-wise/images/rounded.png) ;
+   background-repeat:no-repeat;
+  background-position:left bottom;
+ margin-top:70px;
+ font-style:bold;
+}
+
+.container{padding-top:40px;}
+ .container h5{
+	 margin-left:250px;
+	 width:50%;
+	color:white;
+	font-size:30px;
+	background: rgb(29,41,81,0.88);
+}
+#s5 img{transition:2s;
+        width:90%;
+		height:400px;
+	}
+
+#s5 img:hover{
+	background:rgb(29,41,81,0.88);
+	
+}
+.flex-box3{margin-top:100px;
+	display: flex;
+	background:#000060;
+	height:350px;
+	width:70%;
+	position:absolute;
+	border-radius:30px;
+	text-align:left;
+	transition: 600ms;}
+.flex-box3:hover{box-shadow:0 0 20px #414a4c;}
+
+ #fb3h2{font-size:40px;
+padding-top:50px;
+width:500px;
+height:100px;
+color:white;
+margin-top:5px;
+padding-left:50px;
+padding-right:15px;
+ 
+}
+ #fbp{margin-top:20px;
+color:white;
+font-size:20px;
+padding-left:20px;
+padding-right:150px;
+position:absolute;
+padding:auto; 
+  text-align: justify;
+      line-height: normal;
+	margin-left:30px; 
+	width:800px;
+}
+iframe{border-radius:30px;
+height:250px;
+transition: 600ms;
+position:absolute;
+margin-top:400px;
+}
+iframe:hover{box-shadow:0 0 20px #414a4c;}
+
+	   /*Projects We Support end*/
+
+              /*Why Choose Us*/
+			   
+#s6{
+	background-image:url(https://climate-wise.com/wp-content/themes/climate-wise/assets-wise/images/whychoose-baner.jpg);
+	height:500px;
+	margin-top:400px;
+	
+}
+#s6h2{color:#e49b0f;
+padding-top:50px; 
+}
+#flex-box4{margin-top:70px;
+	display:flex;
+padding-left:50px;
+gap:20px;
+}
+
+	
+
+#s6 h4{
+	padding-top:60px;
+	color:#d3a72b ;
+position:absolute;
+padding-left:15px;
+    font-family: 'Poppins';	
+}
+#s6 p{color:white;
+padding-top:100px;
+ text-align:left;
+ padding-top:108px;
+ 
+ padding:auto;
+ font-size:20px;
+}
+#s6 img{
+	padding-left:70px;
+	position:absolute;
+	
+}
+#s6d1{
+
+border:solid #e49b0f 1px;
+  border-top:none;
+  border-left:none;
+  border-bottom:none;}
+
+#s6d2{
+border:solid #e49b0f 1px;
+  border-top:none;
+  border-left:none;
+  border-bottom:none;}
+
+#s6d3{border:solid #e49b0f 1px;
+  border-top:none;
+  border-left:none;
+  border-bottom:none;}
+
+#s6d4{cursor:pointer;  }
+
+
+
+#s6d1,#s6d2,#s6d3,#s6d4{
+	animation-name:rotate;
+	animation: rotate 5s forwards;  
+	animation-iteration-count:3;
+}
+
+        /*Why Choose Us end*/
+		
+            /*Climate Action Partners*/ 
+			
+#s7{height:400px;
+background-image:url(https://climate-wise.com/wp-content/themes/climate-wise/assets-wise/images/gold-standardbox.png);
+  background-repeat:no-repeat;
+  background-position:left top;
+}
+
+#s7h3{margin-top:40px;
+	text-align:center;
+}
+#flex-box5{display:flex;
+margin-top:100px;
+gap:90px;}
+#s7 img{transition:500ms;
+width:150px;
+height:140px;
+animation:slide 35s linear infinite;
+}
+#s7 img:hover{width:150px;
+height:180px;}
+
+@keyframes slide{
+	0%{
+		transform:translateX(100%);
+	}
+	100%{
+		transform:translateX(-1000%);
+	}
+	
+}
+      /*Climate Action Partners end*/
+
+              /*followers start*/ 
+
+#s8{
+	background-color:#f5f5f5  ;
+	width:100;
+	height:200px;
+}
+
+#flex-box6{display:flex;
+gap:120px;
+padding-left:50px;
+padding-top:50px;}
+#s8 .digits{
+	color:#e49b0f;
+	font-size:35px;
+	justify-content: center;
+	font-weight: 600;
+     font-style:bold;
+	    font-family: 'Poppins';
+		text-align:center;
+}
+#s8 p{font-size:20px;}
+      /*followers start end*/ 
+
+                /* registration form start*/
+
+#s9 { background-color:#191970;
+width:100%;
+height:1000px; }
+#s9 img{ width:550px;
+	 height:350px;
+	 margin-top:250px;
+	 margin-left:40px; 
+
+	}
+	 
+	 .frm{
+		 width:600px;
+	border-radius:50px;
+	background-color:#25254B;
+	 margin-left:70px;
+	 padding:30px;
+	box-shadow: 2px 6px 9px 2px lightblue, 2px 8px 23px 2px rgba(0, 0, 0, 0.19);
+	 background-image:url(https://climate-wise.com/wp-content/themes/climate-wise/assets-wise/images/round.png);
+ background-repeat:no-repeat;
+ opacity:0.9;background-size: 100%;
+
+}
+
+.img-form{display:flex;
+margin-left:50px; }
+
+ #s9 .frm-input input{ width:200px;
+ margin:20px;
+border-radius:10px;
+	border:none;
+	outline:0;
+	height:40px;
+	
+}
+#s9 .frm-input input:hover{ box-shadow: 4px 4px 4px lightblue;}
+
+#s9 .frm-btn #click-btn{width:250px;
+	height:40px;
+	margin-left:15px;
+	border-radius:10px;
+	border:none;
+	background-color:#D3A72B;
+	color:white;}
+#s9 .frm-btn #click-btn:hover{color:black;
+}
+
+#s9 .btn-submit #submit-btn{width:90%;
+height:40px;
+	margin-bottom:20px;
+	margin-left:30px;
+	border:none;
+	border-radius:15px;
+font-size:20px; background-color:#D3A72B;}
+
+#s9 .btn-submit #submit-btn:hover{
+	background:black;
+color:white;
+ box-shadow:2px 2px 2px  yellow;}	
+
+
+    /* registration form end*/
+
+                     /*What Our Clients Say*/
+
+#s10{width:100%;
+height:900px;
+}
+
+					
+#s10 #s10h3{ margin-top:60px;
+	text-align:center;
+	padding-bottom:100px;
+}
+					
+#s10 .flex-box7{
+	display:flex;
+	gap:60px;
+position:absolute;
+}
+
+#s10 img{/*position:absolute;*/
+  border-radius:75px;
+ margin-left:100px;
+ border:5px solid #D3A72B;
+}
+ 
+ #s10 .s10h6{
+	 /*padding-top:90px;*/
+	padding-left:5px;
+	width:350px;
+	height:250px;
+ }
+ 
+ .container1{
+	  background-color:#1d2951; margin-top:40px; 
+	  width:400px;
+	  height: 503px;
+	  padding-left:20px;
+	 border-radius:50px;
+	  color:white;
+	  font-size: 16px;
+	font-weight: 300;
+	line-height: 26px;
+	animation:moveing 40s linear infinite;
+
+  } 
+ 
+  @keyframes moveing{
+	0%{
+		transform:translateX(100%);
+	}
+	100%{
+		transform:translateX(-700%);
+	}
+	
+}
+ .container1:hover{opacity: 0.9;
+   width:410px;
+	  height: 510px;
+box-shadow: 0px 0px 0px  5px lightblue; 
+ } 
+ 
+  #s10 h6{
+	  color:#ed872d;
+	  text-align:center;
+	  font-size:30px;
+	  margin-top:10px;
+  }
+  
+                /*What Our Clients Say end*/
+  
+       /*Our Supporting Companies start*/
+	   
+#s11{width:100%;}
+
+ .s11h2{text-align:center;}
+ 
+ .row img{  display: flex;
+ width:175px;
+ height:155px;
+ padding-top:60px;
+ gap:150px;
+ padding-left:50px;
+
+  
+     
+}
+.row img:hover{
+scale:0.9;
+	cursor:pointer; 
+	
+	
+}
+
+                 /*footer*/
+				 
+ #s12{	
+margin-top:50px; 
+	width:100%;
+	height:800px;
+	background-color:#191970;
+	background-image: url(https://climate-wise.com/wp-content/themes/climate-wise/assets-wise/images/footerbg.jpg);
+	
+	
+}
+#s12 img {height: auto;
+    max-width: 100%;}
+	
+#s12 p{color:white;
+height:200px; 
+width:500px;
+padding-left:30px;
+padding-top:20px;}
+
+#s12 .heading-img{
+	display:flex;
+	gap:30px;
+
+	
+}
+#s12 .s12h4{
+	color:#D3A72B;
+	margin-left:50px;
+}	
+
+#s12 .flex-box9{
+	
+	display:flex;
+}	
+ 
+ #s12 .footerhead-img{padding-left:400px;
+ }
+ 
+ #s12 ul{
+	 padding-left:60px;
+	  list-style-type: none;
+	  color:white;
+ }
+ 
+ 
+   #s12 a{
+	  color:white;
+  }
+   #s12 a:hover{
+	   color:#D3A72B;
+	   text-decoration:none;
+   }
+
+.follow{
+
+	color:#D3A72B;
+}
+
+#s12 .follow-us{text-align:center;
+}
+  #s12 .follow-ul{display:flex;
+  gap:5px;
+  padding-left:600px;}
+
+#s12 .footer-p{
+	padding-left:500px;
+	margin-top:70px;
+	font-size:15px;
+	background-color:#191970;
+	opacity:0.4;
+	height:50px;
+}
